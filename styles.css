@@ -1,0 +1,20 @@
+body {
+    /* background-image: url(./images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;*/
+    background: #ac2fb5;
+background: linear-gradient(90deg,rgba(172, 47, 181, 1) 30%, rgba(9, 9, 121, 1) 100%);
+}
+
+.box {
+/* background: rgba(192, 30, 184, 0.56); */
+background-image: url(./images/background.jpg);
+border-radius: 16px;
+/* box-shadow: 2 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3.4px);
+-webkit-backdrop-filter: blur(3.4px); */
+    width: 700px;
+    height: fit-content;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px white;
+}
